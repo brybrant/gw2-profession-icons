@@ -12,6 +12,8 @@ Official icons from ArenaNet. These icons are copyright NCSoft and usage of thes
 
 > © 2021 NCSOFT Corporation. All rights reserved. NCSOFT, ArenaNet, Guild Wars, Guild Wars 2, and all associated logos, designs, and composite marks are trademarks or registered trademarks of NCSOFT Corporation. All other trademarks are the property of their respective owners.
 
+---
+
 ## [Tango Profession Icons](https://wiki.guildwars2.com/wiki/Guild_Wars_2_Wiki:Profession_icons#Tango_large)
 
 Fan-made icons from the official [Guild Wars 2 Wiki](https://wiki.guildwars2.com/wiki/Main_Page). These icons are licensed under [GNU Free Documentation License](http://www.gnu.org/licenses/fdl-1.3.html) and permission is granted to copy, distribute and/or modify.
