@@ -6,7 +6,7 @@ Guild Wars 2 profession icons with added black outline to increase contrast and 
 
 Official icons from ArenaNet. These icons are copyright NCSoft and usage of these icons is subject to [NCSoft content terms of use](https://us.ncsoft.com/en-gb/legal/ncsoft/content-terms-of-use).
 
-[Download gold icons with black outline](/gold_icons.zip)
+**[Download outlined Gold icons](/gold_icons.zip?raw=true)**
 
 ![Outlined Gold GW2 Profession Icons](/gold-comparison.png)
 
@@ -16,7 +16,7 @@ Official icons from ArenaNet. These icons are copyright NCSoft and usage of thes
 
 Fan-made icons from the official [Guild Wars 2 Wiki](https://wiki.guildwars2.com/wiki/Main_Page). These icons are licensed under [GNU Free Documentation License](http://www.gnu.org/licenses/fdl-1.3.html) and permission is granted to copy, distribute and/or modify.
 
-[Download tango icons with black outline](/tango_icons.zip)
+**[Download outlined Tango icons](/tango_icons.zip?raw=true)**
 
 ![Outlined Tango GW2 Profession Icons](/tango-comparison.png)
 
