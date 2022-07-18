@@ -1,10 +1,12 @@
 # GW2 Profession Icons with Black Outline (High Contrast)
 
-Guild Wars 2 profession icons with added black outline to increase contrast and visibility at small size. This especially helps with icon visibility on light coloured backgrounds.
+Guild Wars 2 profession icons with added black outline to increase contrast and improve visibility at small size. This greatly improves icon visibility on light coloured backgrounds.
 
 ## [Gold Profession Icons](https://wiki.guildwars2.com/wiki/Guild_Wars_2_Wiki:Profession_icons#Large_Icons)
 
 Official icons from ArenaNet. These icons are copyright NCSoft and usage of these icons is subject to [NCSoft content terms of use](https://us.ncsoft.com/en-gb/legal/ncsoft/content-terms-of-use).
+
+[Download gold icons with black outline](/gold_icons.zip)
 
 ![Outlined Gold GW2 Profession Icons](/gold-comparison.png)
 
@@ -13,6 +15,8 @@ Official icons from ArenaNet. These icons are copyright NCSoft and usage of thes
 ## [Tango Profession Icons](https://wiki.guildwars2.com/wiki/Guild_Wars_2_Wiki:Profession_icons#Tango_large)
 
 Fan-made icons from the official [Guild Wars 2 Wiki](https://wiki.guildwars2.com/wiki/Main_Page). These icons are licensed under [GNU Free Documentation License](http://www.gnu.org/licenses/fdl-1.3.html) and permission is granted to copy, distribute and/or modify.
+
+[Download tango icons with black outline](/tango_icons.zip)
 
 ![Outlined Tango GW2 Profession Icons](/tango-comparison.png)
 
