@@ -8,9 +8,11 @@ Official icons from ArenaNet. These icons are copyright NCSoft and usage of thes
 
 <h3 align="center"><a href="/gold_icons.zip?raw=true">📥 Download Outlined Gold Profession Icons</a></h3>
 
-<a href="/gold_icons.zip?raw=true">
-  <img src="/gold-comparison.png" alt="Outlined Gold GW2 Profession Icons" align="center">
-</a>
+<p align="center">
+  <a href="/gold_icons.zip?raw=true">
+    <img src="/gold-comparison.png" alt="Outlined Gold GW2 Profession Icons" align="center">
+  </a>
+</p>
 
 <p align="center">© 2021 NCSOFT Corporation. All rights reserved. NCSOFT, ArenaNet, Guild Wars, Guild Wars 2, and all associated logos, designs, and composite marks are trademarks or registered trademarks of NCSOFT Corporation. All other trademarks are the property of their respective owners.</p>
 
@@ -22,9 +24,11 @@ Fan-made icons from the official [Guild Wars 2 Wiki](https://wiki.guildwars2.com
 
 <h3 align="center"><a href="/tango_icons.zip?raw=true">📥 Download Outlined Tango Profession Icons</a></h3>
 
-<a href="/tango_icons.zip?raw=true">
-  <img src="/tango-comparison.png" alt="Outlined Tango GW2 Profession Icons" align="center">
-</a>
+<p align="center">
+  <a href="/tango_icons.zip?raw=true">
+    <img src="/tango-comparison.png" alt="Outlined Tango GW2 Profession Icons" align="center">
+  </a>
+</p>
 
 Credit to the original designers of Tango profession icons:
 * [Venom20](https://wiki.guildwars2.com/wiki/User:Venom20) (Elementalist, Guardian, Necromancer, Ranger, Warrior)
