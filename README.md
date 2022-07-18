@@ -6,11 +6,11 @@ Guild Wars 2 profession icons with added black outline to increase contrast and 
 
 Official icons from ArenaNet. These icons are copyright NCSoft and usage of these icons is subject to [NCSoft content terms of use](https://us.ncsoft.com/en-gb/legal/ncsoft/content-terms-of-use).
 
-### [📥 Download Outlined Gold Profession Icons](/gold_icons.zip?raw=true)
+<h3 align="center"><a href="/gold_icons.zip?raw=true">📥 Download Outlined Gold Profession Icons</a></h3>
 
 ![Outlined Gold GW2 Profession Icons](/gold-comparison.png)
 
-> © 2021 NCSOFT Corporation. All rights reserved. NCSOFT, ArenaNet, Guild Wars, Guild Wars 2, and all associated logos, designs, and composite marks are trademarks or registered trademarks of NCSOFT Corporation. All other trademarks are the property of their respective owners.
+<p align="center">© 2021 NCSOFT Corporation. All rights reserved. NCSOFT, ArenaNet, Guild Wars, Guild Wars 2, and all associated logos, designs, and composite marks are trademarks or registered trademarks of NCSOFT Corporation. All other trademarks are the property of their respective owners.</p>
 
 ---
 
@@ -18,11 +18,11 @@ Official icons from ArenaNet. These icons are copyright NCSoft and usage of thes
 
 Fan-made icons from the official [Guild Wars 2 Wiki](https://wiki.guildwars2.com/wiki/Main_Page). These icons are licensed under [GNU Free Documentation License](http://www.gnu.org/licenses/fdl-1.3.html) and permission is granted to copy, distribute and/or modify.
 
-### [📥 Download Outlined Tango Profession Icons](/tango_icons.zip?raw=true)
+<h3 align="center"><a href="/tango_icons.zip?raw=true">📥 Download Outlined Tango Profession Icons</a></h3>
 
 ![Outlined Tango GW2 Profession Icons](/tango-comparison.png)
 
-Credit to the original designers of Tango icons:
+Credit to the original designers of Tango profession icons:
 * [Venom20](https://wiki.guildwars2.com/wiki/User:Venom20) (Elementalist, Guardian, Necromancer, Ranger, Warrior)
 * [Aspectacle](https://wiki.guildwars2.com/wiki/User:Aspectacle) (Engineer, Mesmer, Thief)
 * [Alfa-R](https://wiki.guildwars2.com/wiki/User:Alfa-R) (Guardian)
