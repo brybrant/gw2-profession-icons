@@ -1,6 +1,6 @@
-# GW2 Profession Icons with Black Outline (High Contrast)
+# GW2 Outlined Profession Icons
 
-Guild Wars 2 profession icons with added black outline to increase contrast and improve visibility at small size. This greatly improves icon visibility on light coloured backgrounds.
+Guild Wars 2 profession icons with added black outline to improve contrast and visibility at small size and on light coloured backgrounds.
 
 <h2 align="center"><a href="https://wiki.guildwars2.com/wiki/Guild_Wars_2_Wiki:Profession_icons#Large_Icons">Gold Profession Icons</a></h2>
 
